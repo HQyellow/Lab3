@@ -35,7 +35,7 @@ and open the template in the editor.
         $second->add_grade(50);
         $students['a456'] = $second;
         
-         $three= new Student();
+        $three= new Student();
         $three->surname = "Zhang";
         $three->first_name = "Hongqiang";
         $three->add_email('home', '1401362966@qq.com');
@@ -44,7 +44,7 @@ and open the template in the editor.
         $three->add_grade(95);
         $three->add_grade(80);
         $three->add_grade(50);
-        $students['140'] = $three;
+        $students['141'] = $three;
         
          $fourth = new Student();
         $fourth->surname = "fly";
